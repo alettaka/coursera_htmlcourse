@@ -1,0 +1,56 @@
+body {
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    font-family: 'Oxygen', sans-serif;
+  }
+
+
+/** HEADER **/
+#header-nav {
+    background-color: #7d5656;
+    border-radius: 0;
+    border: 0.7mm solid black;
+    padding-top: 10px;
+    height: 120px;
+    
+  }
+
+  .navbar-brand h1 { /* Food LLC */
+    color: black;
+  }   
+
+  .navbar-nav {
+    background-color: #bf8080;
+  }
+
+/** HEADER END **/
+
+#box {
+    background-color: #888787;
+    padding 10px;
+    margin 20px;
+} 
+
+.content-name {
+    font: 1.5em sans-serif;
+}
+
+
+
+
+/********** Small devices and beyond **********/  
+@media (min-width: 768px) {
+
+}
+
+
+
+
+
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+    /* Header */
+    
+}
